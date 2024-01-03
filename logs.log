@@ -1,0 +1,325 @@
+{
+  meta: {
+    req: {
+      url: '/auth/users',
+      headers: {
+        'content-length': '81',
+        'accept-encoding': 'gzip, deflate, br',
+        cookie: 'name=express',
+        accept: '*/*',
+        'user-agent': 'Thunder Client (https://www.thunderclient.com)',
+        'content-type': 'application/json',
+        host: 'localhost:3000',
+        connection: 'close'
+      },
+      method: 'DELETE',
+      httpVersion: '1.1',
+      originalUrl: '/auth/users',
+      query: {}
+    },
+    res: { statusCode: 404 },
+    responseTime: 3
+  },
+  level: 'info',
+  message: 'HTTP DELETE /auth/users'
+}
+{
+  meta: {
+    req: {
+      url: '/auth/users',
+      headers: {
+        'content-length': '81',
+        'accept-encoding': 'gzip, deflate, br',
+        cookie: 'name=express',
+        accept: '*/*',
+        'user-agent': 'Thunder Client (https://www.thunderclient.com)',
+        'content-type': 'application/json',
+        host: 'localhost:3000',
+        connection: 'close'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/auth/users',
+      query: {}
+    },
+    res: { statusCode: 404 },
+    responseTime: 23
+  },
+  level: 'info',
+  message: 'HTTP POST /auth/users'
+}
+{
+  meta: {
+    req: {
+      url: '/auth/users',
+      headers: {
+        'content-length': '81',
+        'accept-encoding': 'gzip, deflate, br',
+        cookie: 'name=express',
+        accept: '*/*',
+        'user-agent': 'Thunder Client (https://www.thunderclient.com)',
+        'content-type': 'application/json',
+        host: 'localhost:3000',
+        connection: 'close'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/auth/users',
+      query: {}
+    },
+    res: { statusCode: 200 },
+    responseTime: 269
+  },
+  level: 'info',
+  message: 'HTTP GET /auth/users'
+}
+{
+  meta: {
+    req: {
+      url: '/auth/users',
+      headers: {
+        'content-length': '81',
+        'accept-encoding': 'gzip, deflate, br',
+        cookie: 'name=express',
+        accept: '*/*',
+        'user-agent': 'Thunder Client (https://www.thunderclient.com)',
+        'content-type': 'application/json',
+        host: 'localhost:3000',
+        connection: 'close'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/auth/users',
+      query: {}
+    },
+    res: { statusCode: 200 },
+    responseTime: 433
+  },
+  level: 'info',
+  message: 'HTTP GET /auth/users'
+}
+{
+  meta: {
+    req: {
+      url: '/auth/users',
+      headers: {
+        'content-length': '81',
+        'accept-encoding': 'gzip, deflate, br',
+        cookie: 'name=express',
+        accept: '*/*',
+        'user-agent': 'Thunder Client (https://www.thunderclient.com)',
+        'content-type': 'application/json',
+        host: 'localhost:3000',
+        connection: 'close'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/auth/users',
+      query: {}
+    },
+    res: { statusCode: 200 },
+    responseTime: 428
+  },
+  level: 'info',
+  message: 'HTTP GET /auth/users'
+}
+{
+  meta: {
+    req: {
+      url: '/auth/users',
+      headers: {
+        'content-length': '81',
+        'accept-encoding': 'gzip, deflate, br',
+        cookie: 'name=express',
+        accept: '*/*',
+        'user-agent': 'Thunder Client (https://www.thunderclient.com)',
+        'content-type': 'application/json',
+        host: 'localhost:3000',
+        connection: 'close'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/auth/users',
+      query: {}
+    },
+    res: { statusCode: 200 },
+    responseTime: 151
+  },
+  level: 'info',
+  message: 'HTTP GET /auth/users'
+}
+{
+  meta: {
+    req: {
+      url: '/auth/users',
+      headers: {
+        'content-length': '81',
+        'accept-encoding': 'gzip, deflate, br',
+        cookie: 'name=express',
+        accept: '*/*',
+        'user-agent': 'Thunder Client (https://www.thunderclient.com)',
+        'content-type': 'application/json',
+        host: 'localhost:3000',
+        connection: 'close'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/auth/users',
+      query: {}
+    },
+    res: { statusCode: 200 },
+    responseTime: 407
+  },
+  level: 'info',
+  message: 'HTTP GET /auth/users'
+}
+{
+  meta: {
+    req: {
+      url: '/auth/users',
+      headers: {
+        'content-length': '81',
+        'accept-encoding': 'gzip, deflate, br',
+        cookie: 'name=express',
+        accept: '*/*',
+        'user-agent': 'Thunder Client (https://www.thunderclient.com)',
+        'content-type': 'application/json',
+        host: 'localhost:3000',
+        connection: 'close'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/auth/users',
+      query: {}
+    },
+    res: { statusCode: 200 },
+    responseTime: 198
+  },
+  level: 'info',
+  message: 'HTTP GET /auth/users'
+}
+{
+  meta: {
+    req: {
+      url: '/auth/users',
+      headers: {
+        'content-length': '81',
+        'accept-encoding': 'gzip, deflate, br',
+        cookie: 'name=express',
+        accept: '*/*',
+        'user-agent': 'Thunder Client (https://www.thunderclient.com)',
+        'content-type': 'application/json',
+        host: 'localhost:3000',
+        connection: 'close'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/auth/users',
+      query: {}
+    },
+    res: { statusCode: 200 },
+    responseTime: 211
+  },
+  level: 'info',
+  message: 'HTTP GET /auth/users'
+}
+{
+  meta: {
+    req: {
+      url: '/auth/users',
+      headers: {
+        'content-length': '81',
+        'accept-encoding': 'gzip, deflate, br',
+        cookie: 'name=express',
+        accept: '*/*',
+        'user-agent': 'Thunder Client (https://www.thunderclient.com)',
+        'content-type': 'application/json',
+        host: 'localhost:3000',
+        connection: 'close'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/auth/users',
+      query: {}
+    },
+    res: { statusCode: 200 },
+    responseTime: 367
+  },
+  level: 'info',
+  message: 'HTTP GET /auth/users'
+}
+{
+  meta: {
+    req: {
+      url: '/auth/users',
+      headers: {
+        'content-length': '81',
+        'accept-encoding': 'gzip, deflate, br',
+        cookie: 'name=express',
+        accept: '*/*',
+        'user-agent': 'Thunder Client (https://www.thunderclient.com)',
+        'content-type': 'application/json',
+        host: 'localhost:3000',
+        connection: 'close'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/auth/users',
+      query: {}
+    },
+    res: { statusCode: 200 },
+    responseTime: 303
+  },
+  level: 'info',
+  message: 'HTTP GET /auth/users'
+}
+{
+  meta: {
+    req: {
+      url: '/auth/users',
+      headers: {
+        'content-length': '81',
+        'accept-encoding': 'gzip, deflate, br',
+        cookie: 'name=express',
+        accept: '*/*',
+        'user-agent': 'Thunder Client (https://www.thunderclient.com)',
+        'content-type': 'application/json',
+        host: 'localhost:3000',
+        connection: 'close'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/auth/users',
+      query: {}
+    },
+    res: { statusCode: 200 },
+    responseTime: 335
+  },
+  level: 'info',
+  message: 'HTTP GET /auth/users'
+}
+{
+  meta: {
+    req: {
+      url: '/auth/users',
+      headers: {
+        'content-length': '81',
+        'accept-encoding': 'gzip, deflate, br',
+        cookie: 'name=express',
+        accept: '*/*',
+        'user-agent': 'Thunder Client (https://www.thunderclient.com)',
+        'content-type': 'application/json',
+        host: 'localhost:3000',
+        connection: 'close'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/auth/users',
+      query: {}
+    },
+    res: { statusCode: 200 },
+    responseTime: 336
+  },
+  level: 'info',
+  message: 'HTTP GET /auth/users'
+}

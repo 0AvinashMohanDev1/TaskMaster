@@ -2,7 +2,31 @@
 const express = require("express");
 const connection = require("./config/db");  // Assuming this module connects to your database
 const { redisClient } = require("./config/redis");  // Assuming this module configures Redis
+const rateLimiter=require("./config/rateLimit");
+const expresswinston=require("express-winston");
+const winston=require("winston");
+
 const app = express();
+
+app.use(rateLimiter);
+
+app.use(expresswinston.logger({
+    transports:[
+        new winston.transports.File({
+            level:"info",
+            filename:"logs.log",
+            colorize:true
+        }),
+        new winston.transports.Console({
+            level:"warn",
+            colorize:true,
+            json:true
+        })
+    ],
+    format:winston.format.prettyPrint()
+}))
+
+
 
 // Import route handlers
 const authRoutes = require('./routes/authRoutes');
